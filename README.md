@@ -1,4 +1,4 @@
-# This repository is used to store programs of C++_learning.
+# This repository is used for storing materials related to learning C++ programming.
 
 ## Projects
 - [x] Contact List Management System
