@@ -1,7 +1,7 @@
 #This repository is used to store programs of C++_learning.
 
 ##项目名称
-- [ ] 通讯录管理系统
+- [x] 通讯录管理系统
 - [ ] 职工管理系统
 - [ ] 比赛流程管理系统
 - [ ] 机房预约管理系统
