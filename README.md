@@ -1,13 +1,13 @@
 # This repository is used to store programs of C++_learning.
 
-## 项目名称
-- [x] 通讯录管理系统
-- [ ] 职工管理系统
-- [ ] 比赛流程管理系统
-- [ ] 机房预约管理系统
-- [ ] 员工分组
+## Projects
+- [x] Contact List Management System
+- [ ] Employee Management System
+- [ ] Competition Process Management System
+- [ ] Computer Room Reservation Management System
+- [ ] Employee grouping
 
-## 学习计划
+## learning plan
 - [ ] 引用
 - [ ] 函数
 - [ ] 类和对象
